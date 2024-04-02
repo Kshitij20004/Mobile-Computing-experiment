@@ -1,0 +1,4 @@
+#Tue Apr 02 12:19:27 IST 2024
+base.0=E\:\\kshitij\\EXP6_GUI\\Code\\BookHub\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
